@@ -1,0 +1,13 @@
+C:\Users\Lord\source\repos\kursa4_Samsonova\kursa4_Samsonova\bin\Debug\kursa4_Samsonova.exe.config
+C:\Users\Lord\source\repos\kursa4_Samsonova\kursa4_Samsonova\bin\Debug\kursa4_Samsonova.exe
+C:\Users\Lord\source\repos\kursa4_Samsonova\kursa4_Samsonova\bin\Debug\kursa4_Samsonova.pdb
+C:\Users\Lord\source\repos\kursa4_Samsonova\kursa4_Samsonova\obj\Debug\kursa4_Samsonova.csprojAssemblyReference.cache
+C:\Users\Lord\source\repos\kursa4_Samsonova\kursa4_Samsonova\obj\Debug\kursa4_Samsonova.Properties.Resources.resources
+C:\Users\Lord\source\repos\kursa4_Samsonova\kursa4_Samsonova\obj\Debug\kursa4_Samsonova.csproj.GenerateResource.cache
+C:\Users\Lord\source\repos\kursa4_Samsonova\kursa4_Samsonova\obj\Debug\kursa4_Samsonova.exe
+C:\Users\Lord\source\repos\kursa4_Samsonova\kursa4_Samsonova\obj\Debug\kursa4_Samsonova.pdb
+C:\Users\Lord\source\repos\kursa4_Samsonova\kursa4_Samsonova\obj\Debug\kursa4_Samsonova.MainMenu.resources
+C:\Users\Lord\source\repos\kursa4_samsonova\kursa4_Samsonova\obj\Debug\kursa4_Samsonova.DBcards.resources
+C:\Users\Lord\source\repos\kursa4_samsonova\kursa4_Samsonova\obj\Debug\kursa4_Samsonova.DBusers.resources
+C:\Users\Lord\source\repos\kursa4_samsonova\kursa4_Samsonova\obj\Debug\kursa4_Samsonova.FormUser.resources
+C:\Users\Lord\source\repos\kursa4_samsonova\kursa4_Samsonova\obj\Debug\kursa4_Samsonova.FormCard.resources
